@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, span, div, li {
+    font-family: 'IBM Plex Mono', monospace;
+    margin: 0;
+}
